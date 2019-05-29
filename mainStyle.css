@@ -1,0 +1,18 @@
+.tbm{
+	margin-top:40px;
+	border: 1px solid #ddd;
+	padding-bottom: 40px;
+	padding-top: 40px;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+ @media only screen (max-width: 700px)
+ {
+ 	.btnS{
+ 		margin-left: 100px;
+ 	}
+ } 
+ .hoverDiv:hover{
+ 	background: red;
+ }
